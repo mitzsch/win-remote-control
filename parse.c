@@ -60,6 +60,10 @@ struct KEY_DEF {
   { "NUM8",    VK_NUMPAD8    },
   { "NUM9",    VK_NUMPAD9    },
   
+  { "MUTE",    VK_VOLUME_MUTE},
+  { "VOLUP",   VK_VOLUME_UP  },
+  { "VOLDW",   VK_VOLUME_DOWN},
+  
   { "F1",      VK_F1         },
   { "F2",      VK_F2         },
   { "F3",      VK_F3         },
