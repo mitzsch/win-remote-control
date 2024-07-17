@@ -35,6 +35,7 @@ IDD_ABOUT DIALOGEX  10, 10, 150, 50
 STYLE WS_POPUPWINDOW
 CAPTION "About Remote Control"
 BEGIN
-    CTEXT         "By MoeFH", IDC_STATIC,  10, 10, 130, 16
-    DEFPUSHBUTTON "&Close",   IDCANCEL,    50, 32, 50,  12, WS_TABSTOP
+    CTEXT         "By MoeFH",          IDC_STATIC,  10, 10, 130, 16
+    CTEXT         "Modded by mitzsch", IDC_STATIC,  10, 20, 130, 16
+    DEFPUSHBUTTON "&Close",            IDCANCEL,    50, 32, 50,  12, WS_TABSTOP
 END
